@@ -30,6 +30,17 @@ puis npm install -g sass
 ouvrir un terminal sur le dossier PHP
 ```git clone https://github.com/mastroiannig/portfolio-final.git```
 
+## sauvegarder
+
+```git add .```
+
+```git commit -m "message"```
+
+```git push```
+
+## pour récup
+
+```git pull```
 
 # démarrer sass
 
