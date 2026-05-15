@@ -1,3 +1,8 @@
+# installer git 
+
+https://git-scm.com/
+
+
 # installation de node js
 
 Prendre la version LTS
@@ -18,6 +23,12 @@ ce système. Pour plus d’informations, consultez about_Execution_Policies à l
 ```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser```
 
 puis npm install -g sass
+
+
+# installer chez toi
+
+ouvrir un terminal sur le dossier PHP
+```git clone https://github.com/mastroiannig/portfolio-final.git```
 
 
 # démarrer sass
